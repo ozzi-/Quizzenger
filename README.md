@@ -10,6 +10,8 @@ Die Fragen werden entweder unterwegs auf einem Smartphone oder auf einem PC in e
 Bei der Architektur und Implementation wird viel Wert auf Flexibilität gelegt, sodass das Projekt ohne grossen Aufwand erweitert werden kann.
 
 ![alt Quizzenger](http://www11.pic-upload.de/10.03.15/mwf6d3zpmt7e.png)
+![alt Quizzenger](http://www.pic-upload.de/delete-26373352/9b2ow6.html)
+
 
 Technisches
 ===========
